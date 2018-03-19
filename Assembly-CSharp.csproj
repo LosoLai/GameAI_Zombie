@@ -51,6 +51,8 @@
     </Reference>
   </ItemGroup>
   <ItemGroup>
+     <Compile Include="Assets\Kid_F\SapphiArtchan\Scripts\AnimationManagerUI.cs" />
+     <Compile Include="Assets\Kid_F\SapphiArtchan\Scripts\SapphiArtChan_AnimManager.cs" />
      <Compile Include="Assets\Teacher\Scripts\CameraLogic.cs" />
      <Compile Include="Assets\Teacher\Scripts\Demo.cs" />
      <Compile Include="Assets\Teacher\Scripts\SimpleCharacterControl.cs" />
